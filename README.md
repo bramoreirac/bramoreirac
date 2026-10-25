@@ -1,4 +1,4 @@
-# Hi there, I'm Braulio 👋
+# Braulio Moreira C.
 
 ### Backend Development | Python & Django REST Framework | Engineering & Problem Solving
 
