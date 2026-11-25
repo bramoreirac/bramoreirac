@@ -1,4 +1,8 @@
-<table width="100%"><tr><td valign="middle"><h1>Braulio Moreira C.</h1></td><td align="right" valign="middle"><img src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="Industrial developer in a forest" width="100"></td></tr></table>
+<img align="right" src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="Industrial developer in a forest" width="100">
+
+<big><big><strong>Braulio Moreira C.</strong></big></big>
+
+<br clear="right">
 
 ### Backend Development | Python & Django REST Framework | Engineering & Problem Solving
 
