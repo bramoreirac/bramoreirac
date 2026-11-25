@@ -1,6 +1,6 @@
 <img align="right" src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="Industrial developer in a forest" width="100">
 
-<big><big><strong>Braulio Moreira C.</strong></big></big>
+<h1><big><strong>Braulio Moreira C.</strong></big></h1>
 
 <br clear="right">
 
