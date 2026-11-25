@@ -108,6 +108,8 @@ I enjoy building applications where **software, data, and engineering meet**.
 
 ---
 
+<img align="right" src="https://pixelflare.cc/bramoreirac/images/industrial-coffee-break-forest-tan.gif" alt="Industrial coffee break in a forest" width="240">
+
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-moreira-carcamo/)
