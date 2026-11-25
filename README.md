@@ -108,7 +108,7 @@ I enjoy building applications where **software, data, and engineering meet**.
 
 ---
 
-<img align="right" src="https://pixelflare.cc/bramoreirac/images/industrial-coffee-break-forest-tan.gif" alt="Industrial coffee break in a forest" width="240">
+<img align="right" src="https://pixelflare.cc/bramoreirac/images/industrial-coffee-break-forest-tan.gif" alt="Industrial coffee break in a forest" width="120">
 
 ### 📫 Connect With Me
 
