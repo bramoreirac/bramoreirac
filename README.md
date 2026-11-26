@@ -4,11 +4,11 @@
 
 <div align="center"><img src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="industrial-developer-forest-tan.gif" width="160"/></div>
 
-<p align="center">I'm an **IT Engineering student and software developer** with a professional background in mechanical engineering, mathematical modeling, and technical problem-solving.</p>
+<p align="center">I'm an <strong>IT Engineering student and software developer</strong> with a professional background in mechanical engineering, mathematical modeling, and technical problem-solving.</p>
 
-<p align="center">With over **7 years of engineering experience**, I bring an analytical and structured approach to software development, combining engineering principles with modern programming technologies.</p>
+<p align="center">With over <strong>7 years of engineering experience</strong>, I bring an analytical and structured approach to software development, combining engineering principles with modern programming technologies.</p>
 
-<p align="center">I'm currently focused on **Python backend development**, particularly building RESTful APIs with Django REST Framework, working with relational databases, and developing full-stack web applications.</p>
+<p align="center">I'm currently focused on <strong>Python backend development</strong>, particularly building RESTful APIs with Django REST Framework, working with relational databases, and developing full-stack web applications.</p>
 
 ---
 
