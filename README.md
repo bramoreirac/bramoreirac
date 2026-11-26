@@ -2,8 +2,8 @@
 
 <table width="100%">
   <tr>
-    <td><h3>Backend Development | Python &amp; Django REST Framework | Engineering &amp; Problem Solving</h3></td>
-    <td><img src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="Industrial developer in a forest" width="80"></td>
+    <td><h3>Backend Development | Python &amp; Django REST Framework |<br>Engineering &amp; Problem Solving</h3></td>
+    <td><img src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="Industrial developer in a forest" width="120"></td>
   </tr>
 </table>
 
