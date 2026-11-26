@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
     <td><h3>Backend Development | Python &amp; Django REST Framework | Engineering &amp; Problem Solving</h3></td>
-    <td><img src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="Industrial developer in a forest" width="100"></td>
+    <td><img src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="Industrial developer in a forest" width="80"></td>
   </tr>
 </table>
 
@@ -113,7 +113,7 @@ I enjoy building applications where **software, data, and engineering meet**.
 
 ---
 
-<img align="right" src="https://pixelflare.cc/bramoreirac/images/industrial-coffee-break-forest-tan.gif" alt="Industrial coffee break in a forest" width="120">
+<img align="right" src="https://pixelflare.cc/bramoreirac/images/industrial-coffee-standing-forest-tan.gif" alt="Industrial coffee break in a forest" width="120">
 
 ### 📫 Connect With Me
 
