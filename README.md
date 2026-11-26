@@ -1,6 +1,11 @@
-<table width="100%"><tr><td valign="middle"><h1>Braulio Moreira C.</h1></td><td align="right" valign="middle"><img src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="Industrial developer in a forest" width="100"></td></tr></table>
+# Braulio Moreira C.
 
-### Backend Development | Python & Django REST Framework | Engineering & Problem Solving
+<table width="100%">
+  <tr>
+    <td><h3>Backend Development | Python &amp; Django REST Framework | Engineering &amp; Problem Solving</h3></td>
+    <td><img src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="Industrial developer in a forest" width="140"></td>
+  </tr>
+</table>
 
 I'm an **IT Engineering student and software developer** with a professional background in mechanical engineering, mathematical modeling, and technical problem-solving.
 
