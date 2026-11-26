@@ -1,11 +1,6 @@
 # Braulio Moreira C.
 
-<table width="100%">
-  <tr>
-    <td><h3>Backend Development | Python &amp; Django REST Framework | Engineering &amp; Problem Solving</h3></td>
-    <td><img src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="Industrial developer in a forest" width="90"></td>
-  </tr>
-</table>
+<img width="100%" src="https://pixelflare.cc/bramoreirac/images/github-banner.gif" alt="github-banner.gif" />
 
 I'm an **IT Engineering student and software developer** with a professional background in mechanical engineering, mathematical modeling, and technical problem-solving.
 
