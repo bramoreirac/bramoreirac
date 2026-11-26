@@ -1,12 +1,14 @@
-# Braulio Moreira C.
+<h1 align="center">Braulio Moreira C.</h1>
 
-<img width="100%" src="https://pixelflare.cc/bramoreirac/images/github-banner.gif" alt="github-banner.gif" />
+<h3 align="center">Backend Development | Python &amp; Django REST Framework | Engineering &amp; Problem Solving</h3>
 
-I'm an **IT Engineering student and software developer** with a professional background in mechanical engineering, mathematical modeling, and technical problem-solving.
+<img align="center" src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="industrial-developer-forest-tan.gif" width="160"/>
 
-With over **7 years of engineering experience**, I bring an analytical and structured approach to software development, combining engineering principles with modern programming technologies.
+<p align="center">I'm an **IT Engineering student and software developer** with a professional background in mechanical engineering, mathematical modeling, and technical problem-solving.</p>
 
-I'm currently focused on **Python backend development**, particularly building RESTful APIs with Django REST Framework, working with relational databases, and developing full-stack web applications.
+<p align="center">With over **7 years of engineering experience**, I bring an analytical and structured approach to software development, combining engineering principles with modern programming technologies.</p>
+
+<p align="center">I'm currently focused on **Python backend development**, particularly building RESTful APIs with Django REST Framework, working with relational databases, and developing full-stack web applications.</p>
 
 ---
 
