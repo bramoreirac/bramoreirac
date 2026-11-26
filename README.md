@@ -2,7 +2,7 @@
 
 <h3 align="center">Backend Development | Python &amp; Django REST Framework | Engineering &amp; Problem Solving</h3>
 
-<img align="center" src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="industrial-developer-forest-tan.gif" width="160"/>
+<div align="center"><img src="https://pixelflare.cc/bramoreirac/images/industrial-developer-forest-tan.gif" alt="industrial-developer-forest-tan.gif" width="160"/></div>
 
 <p align="center">I'm an **IT Engineering student and software developer** with a professional background in mechanical engineering, mathematical modeling, and technical problem-solving.</p>
 
