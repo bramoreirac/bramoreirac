@@ -51,6 +51,8 @@ I'm currently focused on **Python backend development**, particularly building R
 
 ### 🚀 Featured Projects
 
+<img src="https://pixelflare.cc/bramoreirac/images/space-battle.gif" alt="Pixel-art spaceship and server exchanging HTTP requests and responses" width="100%">
+
 **[Job Application Tracker](https://github.com/bramoreirac/job_application_tracker)**
 
 Full-stack application for organizing and managing job applications.
