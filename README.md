@@ -56,6 +56,12 @@ Full-stack application for organizing and managing job applications.
 
 `Python` `Django REST Framework` `React` `Vite` `PostgreSQL`
 
+**[Mouse Bridge](https://github.com/bramoreirac/mouse-bridge)**
+
+Linux utility that recreates Windows-like mouse acceleration and pointer behavior on GNOME Wayland, preserving familiar muscle memory.
+
+`Python` `Linux` `GNOME` `Wayland` `YeetMouse` `TUI`
+
 **[Private Task Tracker](https://github.com/bramoreirac/private_task_tracker)**
 
 Full-stack task management application featuring user authentication, private data access, and persistent storage.
